@@ -4,8 +4,8 @@
   "description": "memanipulasi data dalam sebuah jaringan yang terenkripsi dengan algoritma gin_1",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "repository": {
     "type": "git",
